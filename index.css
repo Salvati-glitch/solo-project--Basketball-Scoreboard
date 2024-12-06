@@ -1,0 +1,56 @@
+body {
+    margin:0;
+    text-align: center;
+    background-color:#1B244A;
+    font-family: Cursed Timer ULiL, sans-serif;
+                                                
+}
+#hme{
+    color:white;
+}
+#home-score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 180px;
+    margin: 40px;
+                
+   
+                                                
+
+                
+}
+#guest-score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 180px;
+    margin: 40px;
+     border-top:30px;
+                                                
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background: none;
+}
+
+#bscore{
+       border-style:solid;
+    
+       border-color:#9AABD8;
+       border-radius:5px;
+       margin-top:5px;
+       height:45px;
+       width:45px;
+       color: white;
+       
+}
+
+
+    
+    
